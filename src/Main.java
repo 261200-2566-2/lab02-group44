@@ -51,6 +51,7 @@ public class Main {
             }else if(currentInput.equals("2"))
             {
                 air1.ShowDetail();
+
             }
             else
             {

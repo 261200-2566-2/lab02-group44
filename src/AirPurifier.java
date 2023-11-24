@@ -10,6 +10,7 @@ public class AirPurifier {
         System.out.println("Power on 50% power•••");
     }
 
+
     void TurnOff(){
         power = false;
         System.out.println("________________________");
